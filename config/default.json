@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://Akash0311:Akash0311@testcluster.j6idq.mongodb.net/SocialNetworkDB?retryWrites=true&w=majority",
+    "jwtSecret" : "backendToken"
+}
